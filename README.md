@@ -1,4 +1,4 @@
-# Dognition-Business-Recommendation
+# Dognition-Business-Recommendation-Using-Tableau
 In this repo I made a Business recommendation to Dognition.com. 
 All the tasks carried out were part of an assignment from the Coursera course 'Data Visualization and Communication using Tableau' offered by Duke University.
 The Dognition data set was provided as a resource to the assignment.
